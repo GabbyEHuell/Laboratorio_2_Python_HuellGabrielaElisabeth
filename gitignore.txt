@@ -1,0 +1,36 @@
+# (comentar/descomentar archivos o carpetas según necesidad)
+# Laboratorio-specific ignores
+
+
+#SQLQuery_Inventario.sql
+#productos_db.json
+
+# Imported translations (automatically generated)
+
+# Mono-specific ignores
+
+# Archivos de sistema:
+.DS_Store
+Thumbs.db
+
+# Archivos de configuración de IDEs:
+.vscode/
+.idea/
+
+# Archivos de bases de datos locales:
+*.sqlite3
+
+# Archivos de logs:
+*.log
+
+# Archivos de configuración del entorno
+#.env
+
+#Entornos virtuales:
+#venv/
+#.venv/
+
+# Archivos compilados de Python:
+*.pyc
+*.pyo
+__pycache__/
