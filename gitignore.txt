@@ -24,7 +24,7 @@ Thumbs.db
 *.log
 
 # Archivos de configuración del entorno
-#.env
+*.env
 
 #Entornos virtuales:
 #venv/
